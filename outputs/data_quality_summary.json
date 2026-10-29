@@ -1,0 +1,8 @@
+{
+  "rows_after_cleaning": 300000,
+  "columns_after_merging": 18,
+  "negative_targets_clipped": 15,
+  "duplicate_rows_removed": 0,
+  "date_min": "2013-01-01",
+  "date_max": "2013-09-01"
+}

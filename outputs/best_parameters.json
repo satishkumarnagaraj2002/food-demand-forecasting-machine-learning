@@ -1,0 +1,26 @@
+{
+  "RandomForest": {
+    "regressor__model__n_estimators": 150,
+    "regressor__model__min_samples_split": 2,
+    "regressor__model__min_samples_leaf": 1,
+    "regressor__model__max_features": 0.7,
+    "regressor__model__max_depth": 12
+  },
+  "XGBoost": {
+    "regressor__model__subsample": 0.7,
+    "regressor__model__n_estimators": 400,
+    "regressor__model__min_child_weight": 5,
+    "regressor__model__max_depth": 4,
+    "regressor__model__learning_rate": 0.05,
+    "regressor__model__colsample_bytree": 0.7
+  },
+  "LightGBM": {
+    "regressor__model__subsample": 0.7,
+    "regressor__model__num_leaves": 63,
+    "regressor__model__n_estimators": 400,
+    "regressor__model__min_child_samples": 20,
+    "regressor__model__max_depth": 10,
+    "regressor__model__learning_rate": 0.05,
+    "regressor__model__colsample_bytree": 0.85
+  }
+}

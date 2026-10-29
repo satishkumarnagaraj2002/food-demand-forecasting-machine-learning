@@ -1,0 +1,90 @@
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+C:\Python\Lib\site-packages\sklearn\impute\_base.py:647: UserWarning: Skipping features without any observed values: ['dcoilwtico' 'lag_1' 'lag_7' 'lag_14' 'lag_28' 'rolling_mean_7'
+ 'rolling_std_7' 'rolling_mean_28' 'rolling_std_28']. At least one non-missing value is needed for imputation with strategy='median'.
+  warnings.warn(
+Exception ignored in: <function Image.__del__ at 0x0000027D9FD0E0C0>
+Traceback (most recent call last):
+  File "C:\Python\Lib\tkinter\__init__.py", line 4105, in __del__
+    self.tk.call('image', 'delete', self.name)
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x0000027D9FC472E0>
+Traceback (most recent call last):
+  File "C:\Python\Lib\tkinter\__init__.py", line 410, in __del__
+    if self._tk.getboolean(self._tk.call("info", "exists", self._name)):
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x0000027D9FC472E0>
+Traceback (most recent call last):
+  File "C:\Python\Lib\tkinter\__init__.py", line 410, in __del__
+    if self._tk.getboolean(self._tk.call("info", "exists", self._name)):
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x0000027D9FC472E0>
+Traceback (most recent call last):
+  File "C:\Python\Lib\tkinter\__init__.py", line 410, in __del__
+    if self._tk.getboolean(self._tk.call("info", "exists", self._name)):
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x0000027D9FC472E0>
+Traceback (most recent call last):
+  File "C:\Python\Lib\tkinter\__init__.py", line 410, in __del__
+    if self._tk.getboolean(self._tk.call("info", "exists", self._name)):
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: main thread is not in main loop
+Tcl_AsyncDelete: async handler deleted by the wrong thread

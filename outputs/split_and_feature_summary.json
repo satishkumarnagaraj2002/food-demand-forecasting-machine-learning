@@ -1,0 +1,51 @@
+{
+  "train_rows": 246109,
+  "test_rows": 53891,
+  "train_start_date": "2013-01-01",
+  "train_end_date": "2013-07-01",
+  "test_start_date": "2013-08-01",
+  "test_end_date": "2013-09-01",
+  "numeric_features": [
+    "id",
+    "store_nbr",
+    "item_nbr",
+    "onpromotion",
+    "cluster",
+    "class",
+    "perishable",
+    "dcoilwtico",
+    "transactions",
+    "holiday_count",
+    "is_holiday",
+    "year",
+    "month",
+    "iso_week",
+    "day_of_month",
+    "day_of_week",
+    "quarter",
+    "is_weekend",
+    "month_sin",
+    "month_cos",
+    "dow_sin",
+    "dow_cos",
+    "lag_1",
+    "lag_7",
+    "lag_14",
+    "lag_28",
+    "rolling_mean_7",
+    "rolling_std_7",
+    "rolling_mean_28",
+    "rolling_std_28"
+  ],
+  "one_hot_features": [
+    "type",
+    "holiday_type"
+  ],
+  "ordinal_encoded_features": [
+    "city",
+    "state",
+    "family"
+  ],
+  "fast_mode": true,
+  "max_rows": 300000
+}

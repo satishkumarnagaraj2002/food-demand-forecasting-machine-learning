@@ -1,0 +1,8 @@
+{
+  "target_mean": 9.917802103333331,
+  "target_median": 5.0,
+  "target_std": 21.859595321745374,
+  "min_date": "2013-01-01",
+  "max_date": "2013-09-01",
+  "non_null_rows": 300000
+}

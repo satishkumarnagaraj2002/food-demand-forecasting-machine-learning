@@ -1,0 +1,90 @@
+feature,importance
+numeric__lag_1,0.2620959
+numeric__rolling_mean_7,0.115117565
+low_cardinality__type_A,0.08360146
+numeric__rolling_mean_28,0.071962014
+numeric__day_of_week,0.041023295
+numeric__transactions,0.038109362
+low_cardinality__state_Pichincha,0.029188668
+low_cardinality__family_POULTRY,0.02662843
+numeric__month,0.025420783
+numeric__dow_cos,0.021346172
+numeric__month_cos,0.019803604
+numeric__rolling_std_7,0.019098636
+numeric__iso_week,0.017165553
+numeric__dcoilwtico,0.015353361
+low_cardinality__family_BEVERAGES,0.01433707
+high_cardinality__class,0.010003653
+numeric__perishable,0.009201594
+numeric__rolling_std_28,0.007599965
+low_cardinality__family_CLEANING,0.0075580515
+low_cardinality__state_Chimborazo,0.0071821725
+low_cardinality__family_DELI,0.0066843056
+low_cardinality__city_Riobamba,0.00667127
+low_cardinality__family_PERSONAL CARE,0.006296304
+numeric__month_sin,0.0055211126
+numeric__quarter,0.0054283626
+low_cardinality__family_MEATS,0.0051643257
+high_cardinality__item_nbr,0.0050642523
+low_cardinality__city_Quito,0.004699305
+low_cardinality__family_BREAD/BAKERY,0.0046893773
+low_cardinality__family_PREPARED FOODS,0.00466788
+high_cardinality__store_nbr,0.0043693027
+low_cardinality__state_Guayas,0.0042553237
+"low_cardinality__family_LIQUOR,WINE,BEER",0.004172022
+low_cardinality__type_B,0.003894433
+low_cardinality__state_Santo Domingo de los Tsachilas,0.0038828908
+low_cardinality__family_DAIRY,0.0034130143
+numeric__dow_sin,0.0033599746
+low_cardinality__type_C,0.003234034
+low_cardinality__city_Santo Domingo,0.0030523909
+low_cardinality__city_Guayaquil,0.0030167885
+low_cardinality__city_Babahoyo,0.0029376247
+high_cardinality__cluster,0.0027985973
+low_cardinality__family_FROZEN FOODS,0.0027676688
+low_cardinality__state_Azuay,0.002751839
+low_cardinality__state_Bolivar,0.0026610782
+low_cardinality__family_AUTOMOTIVE,0.0026382115
+low_cardinality__family_EGGS,0.0026020212
+low_cardinality__city_Salinas,0.0025944966
+low_cardinality__city_Cuenca,0.002567176
+low_cardinality__city_Quevedo,0.0023737927
+low_cardinality__city_Ibarra,0.002262581
+low_cardinality__type_D,0.00223118
+low_cardinality__city_Ambato,0.002223202
+low_cardinality__city_Guaranda,0.0022173782
+low_cardinality__family_GROCERY II,0.0019880298
+numeric__is_weekend,0.0019754022
+low_cardinality__holiday_type_Work Day,0.001917136
+low_cardinality__state_Tungurahua,0.0018508685
+low_cardinality__state_Los Rios,0.0018473662
+low_cardinality__city_Cayambe,0.0018301437
+low_cardinality__city_El Carmen,0.0017730334
+low_cardinality__city_Esmeraldas,0.0017629776
+low_cardinality__city_Machala,0.0017512921
+low_cardinality__type_E,0.001524891
+low_cardinality__state_Esmeraldas,0.0014646593
+low_cardinality__city_Latacunga,0.0014255597
+low_cardinality__holiday_type_Unknown,0.001413552
+low_cardinality__city_Daule,0.0012608325
+low_cardinality__family_GROCERY I,0.0012535352
+low_cardinality__family_SEAFOOD,0.0011081011
+low_cardinality__family_LAWN AND GARDEN,0.0009801516
+low_cardinality__family_HARDWARE,0.00076204236
+low_cardinality__city_Loja,0.0007107397
+low_cardinality__family_LINGERIE,0.00070524693
+low_cardinality__state_Loja,0.00070279086
+low_cardinality__state_Manabi,0.00053316454
+low_cardinality__city_Playas,0.0004422499
+low_cardinality__state_Imbabura,5.5405635e-05
+low_cardinality__holiday_type_Holiday,0.0
+numeric__onpromotion,0.0
+low_cardinality__family_HOME APPLIANCES,0.0
+low_cardinality__family_BEAUTY,0.0
+low_cardinality__state_Santa Elena,0.0
+low_cardinality__state_El Oro,0.0
+numeric__day_of_month,0.0
+numeric__year,0.0
+numeric__is_holiday,0.0
+numeric__holiday_count,0.0
+low_cardinality__state_Cotopaxi,0.0
