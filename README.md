@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # food-demand-forecasting-ml
 =======
 Machine Learning for Food Demand Forecasting
